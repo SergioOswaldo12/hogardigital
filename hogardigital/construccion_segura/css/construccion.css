@@ -1,0 +1,32 @@
+.banner-construccion {
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
+                url('../img/banner.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 120px 0;
+}
+
+.video-card {
+    border-radius: 12px;
+}
+
+.video-yt {
+    width: 100%;
+    height: 220px;
+    border-radius: 12px 12px 0 0;
+}
+
+.guia-img {
+    border-radius: 15px;
+    max-height: 250px;
+    object-fit: cover;
+}
+
+.lista-consejos {
+    font-size: 18px;
+    line-height: 1.8;
+    background: #e8f0ff;
+    padding: 20px;
+    border-radius: 12px;
+    list-style: none;
+}

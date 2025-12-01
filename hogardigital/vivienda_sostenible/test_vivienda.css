@@ -1,0 +1,20 @@
+.banner-vivienda {
+    background: linear-gradient(to right, #0077c8, #00a8e8);
+    padding: 60px 20px;
+}
+
+.pregunta-box {
+    background: #f8f9fa;
+    border-left: 6px solid #0077c8;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.card {
+    border-radius: 12px;
+}
+
+.alert {
+    font-size: 22px;
+    font-weight: bold;
+}

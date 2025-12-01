@@ -1,0 +1,47 @@
+/* HERO */
+.hero {
+    height: 80vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.5),
+                                rgba(0, 0, 0, 0.5)),
+                url('../img/vivienda.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+/* Textos */
+h1, h2, h3 {
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+}
+
+p {
+    font-size: 17px;
+}
+
+/* Logo del navbar */
+.logo-navbar {
+    height: 55px;      
+    width: auto;       
+    object-fit: contain;
+}
+
+/*index */
+
+
+/* Imágenes del carrusel */
+.carrusel-img {
+    height: 450px;
+    object-fit: cover;
+}
+
+/* Botón conocer más */
+.btn-lg {
+    padding: 12px 30px;
+    border-radius: 10px;
+}
+
+/* Hero anterior (lo quitamos si ya no se usa) */
+.hero {
+    display: none;
+}
+
